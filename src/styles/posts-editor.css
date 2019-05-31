@@ -1,0 +1,48 @@
+.parent-col-posts-editor {
+    padding: 0px 13px 0 13px !important;
+    position: relative;
+    height: 228px;
+    margin-top: 9px;
+}
+
+.section-posts-editor .item-img-posts {
+    width: 100%;
+    height: auto;
+}
+
+.section-posts-editor .item-img-posts img {
+    width: 100%;
+    height: auto;
+}
+
+.section-posts-editor .item-title-posts {
+    width: auto;
+    direction: rtl;
+    text-align: right;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+    margin-right: 11px;
+}
+
+.section-posts-editor .item-title-posts:hover {
+    color: #0D47A1;
+}
+
+
+
+.section-posts-editor .m2 {
+    padding: 0;
+    margin-left: 18px !important;
+    width: 18.8% !important;
+}
+
+.bac-over-posts-editor {
+    width: 97.55%;
+    height: 127px;
+    background: #323232;
+    bottom: 0;
+    position: absolute;
+    z-index: -1;
+    left: 16px;
+}
